@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tenorix
-- 👀 I’m interested in music-making (choir, voice, guitar, midi), bicycles and agile organizations
-- 🌱 I’m currently learning MMA and bit of Python, probably + improving my guitar skills 
-- 💞️ I’m looking to collaborate on MMA creation of backing tracks
+- 👀 I’m interested in music-making, bicycles and personal finance
+- 🌱 I’m currently starting to use the portfolio performance application  
+- 💞️ I’m looking to collaborate on creating tutorials and documentation
 - 📫 How to reach me ...
 
 <!---
